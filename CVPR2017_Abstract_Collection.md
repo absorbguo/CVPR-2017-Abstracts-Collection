@@ -2802,6 +2802,11 @@ Yuan Gao, Alan L. Yuille
 Jie Qin, Li Liu, Ling Shao, Bingbing Ni, Chen Chen, Fumin Shen, Yunhong Wang
 #### SphereFace: Deep Hypersphere Embedding for Face Recognition
 Weiyang Liu, Yandong Wen, Zhiding Yu, Ming Li, Bhiksha Raj, Le Song
+
+_**Abstract**_: This paper addresses deep face recognition (FR) problem under open-set protocol, where ideal face features are expected to have smaller maximal intra-class distance than minimal inter-class distance under a suitably chosen metric space. However, few existing algorithms can effectively achieve this criterion. To this end, we propose the angular softmax (A-Softmax) loss that enables convolutional neural networks (CNNs) to learn angularly discriminative features. Geometrically, A-Softmax loss can be viewed as imposing discriminative constraints on a hypersphere manifold, which intrinsically matches the prior that faces also lie on a manifold. Moreover, the size of angular margin can be quantitatively adjusted by a parameter m. We further derive specific m to approximate the ideal feature criterion. Extensive analysis and experiments on Labeled Face in the Wild (LFW), Youtube Faces (YTF) and MegaFace Challenge 1 show the superiority of A-Softmax loss in FR tasks.
+
+_**Comment**_: &emsp;_< angle-softmax loss >_
+
 #### IRINA: Iris Recognition (Even) in Inaccurately Segmented Data
 Hugo ProenÃ§a, JoÃ£o C. Neves
 #### Look Into Person: Self-Supervised Structure-Sensitive Learning and a New Benchmark for Human Parsing
