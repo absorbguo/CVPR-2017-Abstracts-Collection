@@ -2778,188 +2778,188 @@ _**Comment**_: &emsp;_< >_
 
 # Poster 4-2
 
-3D Computer Vision
-SGM-Nets: Semi-Global Matching With Neural Networks
+## 3D Computer Vision
+#### SGM-Nets: Semi-Global Matching With Neural Networks
 Akihito Seki, Marc Pollefeys
-Stereo-Based 3D Reconstruction of Dynamic Fluid Surfaces by Global Optimization
+#### Stereo-Based 3D Reconstruction of Dynamic Fluid Surfaces by Global Optimization
 Yiming Qian, Minglun Gong, Yee-Hong Yang
-Fine-To-Coarse Global Registration of RGB-D Scans
+#### Fine-To-Coarse Global Registration of RGB-D Scans
 Maciej Halber, Thomas Funkhouser
-Analyzing Computer Vision Data - The Good, the Bad and the Ugly
+#### Analyzing Computer Vision Data - The Good, the Bad and the Ugly
 Oliver Zendel, Katrin Honauer, Markus Murschitz, Martin Humenberger, Gustavo FernÃ¡ndez DomÃ­nguez
-Product Manifold Filter: Non-Rigid Shape Correspondence via Kernel Density Estimation in the Product Space
+#### Product Manifold Filter: Non-Rigid Shape Correspondence via Kernel Density Estimation in the Product Space
 Matthias Vestner, Roee Litman, Emanuele RodolÃ , Alex Bronstein, Daniel Cremers
-Unsupervised Vanishing Point Detection and Camera Calibration From a Single Manhattan Image With Radial Distortion
+#### Unsupervised Vanishing Point Detection and Camera Calibration From a Single Manhattan Image With Radial Distortion
 Michel Antunes, JoÃ£o P. Barreto, Djamila Aouada, BjÃ¶rn Ottersten
-Toroidal Constraints for Two-Point Localization Under High Outlier Ratios
+#### Toroidal Constraints for Two-Point Localization Under High Outlier Ratios
 Federico Camposeco, Torsten Sattler, Andrea Cohen, Andreas Geiger, Marc Pollefeys
-4D Light Field Superpixel and Segmentation
+#### 4D Light Field Superpixel and Segmentation
 Hao Zhu, Qi Zhang, Qing Wang
-Exploiting Symmetry and/or Manhattan Properties for 3D Object Structure Estimation From Single and Multiple Images
+#### Exploiting Symmetry and/or Manhattan Properties for 3D Object Structure Estimation From Single and Multiple Images
 Yuan Gao, Alan L. Yuille
-Analyzing Humans in Images
-Binary Coding for Partial Action Analysis With Limited Observation Ratios
+## Analyzing Humans in Images
+#### Binary Coding for Partial Action Analysis With Limited Observation Ratios
 Jie Qin, Li Liu, Ling Shao, Bingbing Ni, Chen Chen, Fumin Shen, Yunhong Wang
-SphereFace: Deep Hypersphere Embedding for Face Recognition
+#### SphereFace: Deep Hypersphere Embedding for Face Recognition
 Weiyang Liu, Yandong Wen, Zhiding Yu, Ming Li, Bhiksha Raj, Le Song
-IRINA: Iris Recognition (Even) in Inaccurately Segmented Data
+#### IRINA: Iris Recognition (Even) in Inaccurately Segmented Data
 Hugo ProenÃ§a, JoÃ£o C. Neves
-Look Into Person: Self-Supervised Structure-Sensitive Learning and a New Benchmark for Human Parsing
+#### Look Into Person: Self-Supervised Structure-Sensitive Learning and a New Benchmark for Human Parsing
 Ke Gong, Xiaodan Liang, Dongyu Zhang, Xiaohui Shen, Liang Lin
-Action Unit Detection With Region Adaptation, Multi-Labeling Learning and Optimal Temporal Fusing
+#### Action Unit Detection With Region Adaptation, Multi-Labeling Learning and Optimal Temporal Fusing
 Wei Li, Farnaz Abtahi, Zhigang Zhu
-See the Forest for the Trees: Joint Spatial and Temporal Recurrent Neural Networks for Video-Based Person Re-Identification
+#### See the Forest for the Trees: Joint Spatial and Temporal Recurrent Neural Networks for Video-Based Person Re-Identification
 Zhen Zhou, Yan Huang, Wei Wang, Liang Wang, Tieniu Tan
-Joint Intensity and Spatial Metric Learning for Robust Gait Recognition
+#### Joint Intensity and Spatial Metric Learning for Robust Gait Recognition
 Yasushi Makihara, Atsuyuki Suzuki, Daigo Muramatsu, Xiang Li, Yasushi Yagi
-Pose-Aware Person Recognition
+#### Pose-Aware Person Recognition
 Vijay Kumar, Anoop Namboodiri, Manohar Paluri, C. V. Jawahar
-Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-Spectral Hallucination and Low-Rank Embedding
+#### Not Afraid of the Dark: NIR-VIS Face Recognition via Cross-Spectral Hallucination and Low-Rank Embedding
 José Lezama, Qiang Qiu, Guillermo Sapiro
-Applications
-Jointly Learning Energy Expenditures and Activities Using Egocentric Multimodal Signals
+## Applications
+#### Jointly Learning Energy Expenditures and Activities Using Egocentric Multimodal Signals
 Katsuyuki Nakamura, Serena Yeung, Alexandre Alahi, Li Fei-Fei
-Binarized Mode Seeking for Scalable Visual Pattern Discovery
+#### Binarized Mode Seeking for Scalable Visual Pattern Discovery
 Wei Zhang, Xiaochun Cao, Rui Wang, Yuanfang Guo, Zhineng Chen
-Scribbler: Controlling Deep Image Synthesis With Sketch and Color
+#### Scribbler: Controlling Deep Image Synthesis With Sketch and Color
 Patsorn Sangkloy, Jingwan Lu, Chen Fang, Fisher Yu, James Hays
-Biomedical Image/Video Analysis
-Multi-Way Multi-Level Kernel Modeling for Neuroimaging Classification
+## Biomedical Image/Video Analysis
+#### Multi-Way Multi-Level Kernel Modeling for Neuroimaging Classification
 Lifang He, Chun-Ta Lu, Hao Ding, Shen Wang, Linlin Shen, Philip S. Yu, Ann B. Ragin
-WSISA: Making Survival Prediction From Whole Slide Histopathological Images
+#### WSISA: Making Survival Prediction From Whole Slide Histopathological Images
 Xinliang Zhu, Jiawen Yao, Feiyun Zhu, Junzhou Huang
-Computational Photography
-On the Effectiveness of Visible Watermarks
+## Computational Photography
+#### On the Effectiveness of Visible Watermarks
 Tali Dekel, Michael Rubinstein, Ce Liu, William T. Freeman
-Snapshot Hyperspectral Light Field Imaging
+#### Snapshot Hyperspectral Light Field Imaging
 Zhiwei Xiong, Lizhi Wang, Huiqun Li, Dong Liu, Feng Wu
-Semantic Image Inpainting With Deep Generative Models
+#### Semantic Image Inpainting With Deep Generative Models
 Raymond A. Yeh, Chen Chen, Teck Yian Lim, Alexander G. Schwing, Mark Hasegawa-Johnson, Minh N. Do
-Image Motion & Tracking
-Fast Multi-Frame Stereo Scene Flow With Motion Segmentation
+## Image Motion & Tracking
+#### Fast Multi-Frame Stereo Scene Flow With Motion Segmentation
 Tatsunori Taniai, Sudipta N. Sinha, Yoichi Sato
-Improved Stereo Matching With Constant Highway Networks and Reflective Confidence Learning
+#### Improved Stereo Matching With Constant Highway Networks and Reflective Confidence Learning
 Amit Shaked, Lior Wolf
-Optical Flow in Mostly Rigid Scenes
+#### Optical Flow in Mostly Rigid Scenes
 Jonas Wulff, Laura Sevilla-Lara, Michael J. Black
-Optical Flow Requires Multiple Strategies (but Only One Network)
+#### Optical Flow Requires Multiple Strategies (but Only One Network)
 Tal Schuster, Lior Wolf, David Gadot
-ECO: Efficient Convolution Operators for Tracking
+#### ECO: Efficient Convolution Operators for Tracking
 Martin Danelljan, Goutam Bhat, Fahad Shahbaz Khan, Michael Felsberg
-Low- & Mid-Level Vision
-Differential Angular Imaging for Material Recognition
+## Low- & Mid-Level Vision
+#### Differential Angular Imaging for Material Recognition
 Jia Xue, Hang Zhang, Kristin Dana, Ko Nishino
-Fast Fourier Color Constancy
+#### Fast Fourier Color Constancy
 Jonathan T. Barron, Yun-Ta Tsai
-Comparative Evaluation of Hand-Crafted and Learned Local Features
+#### Comparative Evaluation of Hand-Crafted and Learned Local Features
 Johannes L. SchÃ¶nberger, Hans Hardmeier, Torsten Sattler, Marc Pollefeys
-Learning Fully Convolutional Networks for Iterative Non-Blind Deconvolution
+#### Learning Fully Convolutional Networks for Iterative Non-Blind Deconvolution
 Jiawei Zhang, Jinshan Pan, Wei-Sheng Lai, Rynson W. H. Lau, Ming-Hsuan Yang
-Image Deblurring via Extreme Channels Prior
+#### Image Deblurring via Extreme Channels Prior
 Yanyang Yan, Wenqi Ren, Yuanfang Guo, Rui Wang, Xiaochun Cao
-Simultaneous Stereo Video Deblurring and Scene Flow Estimation
+#### Simultaneous Stereo Video Deblurring and Scene Flow Estimation
 Liyuan Pan, Yuchao Dai, Miaomiao Liu, Fatih Porikli
-Deep Photo Style Transfer
+#### Deep Photo Style Transfer
 Fujun Luan, Sylvain Paris, Eli Shechtman, Kavita Bala
-Generative Attribute Controller With Conditional Filtered Generative Adversarial Networks
+#### Generative Attribute Controller With Conditional Filtered Generative Adversarial Networks
 Takuhiro Kaneko, Kaoru Hiramatsu, Kunio Kashino
-Fast Haze Removal for Nighttime Image Using Maximum Reflectance Prior
+#### Fast Haze Removal for Nighttime Image Using Maximum Reflectance Prior
 Jing Zhang, Yang Cao, Shuai Fang, Yu Kang, Chang Wen Chen
-Machine Learning
-Low-Rank Bilinear Pooling for Fine-Grained Classification
+## Machine Learning
+#### Low-Rank Bilinear Pooling for Fine-Grained Classification
 Shu Kong, Charless Fowlkes
-Neural Scene De-Rendering
+#### Neural Scene De-Rendering
 Jiajun Wu, Joshua B. Tenenbaum, Pushmeet Kohli
-Real-Time Neural Style Transfer for Videos
+#### Real-Time Neural Style Transfer for Videos
 Haozhi Huang, Hao Wang, Wenhan Luo, Lin Ma, Wenhao Jiang, Xiaolong Zhu, Zhifeng Li, Wei Liu
-A Graph Regularized Deep Neural Network for Unsupervised Image Representation Learning
+#### A Graph Regularized Deep Neural Network for Unsupervised Image Representation Learning
 Shijie Yang, Liang Li, Shuhui Wang, Weigang Zhang, Qingming Huang
-Collaborative Deep Reinforcement Learning for Joint Object Search
+#### Collaborative Deep Reinforcement Learning for Joint Object Search
 Xiangyu Kong, Bo Xin, Yizhou Wang, Gang Hua
-Loss Max-Pooling for Semantic Image Segmentation
+#### Loss Max-Pooling for Semantic Image Segmentation
 Samuel Rota BulÃ², Gerhard Neuhold, Peter Kontschieder
-Deep View Morphing
+## Deep View Morphing
 Dinghuang Ji, Junghyun Kwon, Max McFarland, Silvio Savarese
-Unsupervised Learning of Long-Term Motion Dynamics for Videos
+#### Unsupervised Learning of Long-Term Motion Dynamics for Videos
 Zelun Luo, Boya Peng, De-An Huang, Alexandre Alahi, Li Fei-Fei
-Revisiting Metric Learning for SPD Matrix Based Visual Representation
+#### Revisiting Metric Learning for SPD Matrix Based Visual Representation
 Luping Zhou, Lei Wang, Jianjia Zhang, Yinghuan Shi, Yang Gao
-Expert Gate: Lifelong Learning With a Network of Experts
+#### Expert Gate: Lifelong Learning With a Network of Experts
 Rahaf Aljundi, Punarjay Chakravarty, Tinne Tuytelaars
-A Gift From Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning
+#### A Gift From Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning
 Junho Yim, Donggyu Joo, Jihoon Bae, Junmo Kim
-Domain Adaptation by Mixture of Alignments of Second- or Higher-Order Scatter Tensors
+#### Domain Adaptation by Mixture of Alignments of Second- or Higher-Order Scatter Tensors
 Piotr Koniusz, Yusuf Tas, Fatih Porikli
-Deep Mixture of Linear Inverse Regressions Applied to Head-Pose Estimation
+#### Deep Mixture of Linear Inverse Regressions Applied to Head-Pose Estimation
 Stéphane Lathuilière, Rémi Juge, Pablo Mesejo, Rafael Muñoz-Salinas, Radu Horaud
-STD2P: RGBD Semantic Segmentation Using Spatio-Temporal Data-Driven Pooling
+#### STD2P: RGBD Semantic Segmentation Using Spatio-Temporal Data-Driven Pooling
 Yang He, Wei-Chen Chiu, Margret Keuper, Mario Fritz
-Harmonic Networks: Deep Translation and Rotation Equivariance
+#### Harmonic Networks: Deep Translation and Rotation Equivariance
 Daniel E. Worrall, Stephan J. Garbin, Daniyar Turmukhambetov, Gabriel J. Brostow
-Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer
+#### Multimodal Transfer: A Hierarchical Deep Convolutional Neural Network for Fast Artistic Style Transfer
 Xin Wang, Geoffrey Oxholm, Da Zhang, Yuan-Fang Wang
-Detect, Replace, Refine: Deep Structured Prediction for Pixel Wise Labeling
+#### Detect, Replace, Refine: Deep Structured Prediction for Pixel Wise Labeling
 Spyros Gidaris, Nikos Komodakis
-Weighted-Entropy-Based Quantization for Deep Neural Networks
+#### Weighted-Entropy-Based Quantization for Deep Neural Networks
 Eunhyeok Park, Junwhan Ahn, Sungjoo Yoo
-Residual Expansion Algorithm: Fast and Effective Optimization for Nonconvex Least Squares Problems
+#### Residual Expansion Algorithm: Fast and Effective Optimization for Nonconvex Least Squares Problems
 Daiki Ikami, Toshihiko Yamasaki, Kiyoharu Aizawa
-Bidirectional Beam Search: Forward-Backward Inference in Neural Sequence Models for Fill-In-The-Blank Image Captioning
+#### Bidirectional Beam Search: Forward-Backward Inference in Neural Sequence Models for Fill-In-The-Blank Image Captioning
 Qing Sun, Stefan Lee, Dhruv Batra
-Newton-Type Methods for Inference in Higher-Order Markov Random Fields
+#### Newton-Type Methods for Inference in Higher-Order Markov Random Fields
 Hariprasad Kannan, Nikos Komodakis, Nikos Paragios
-Adaptive Relaxed ADMM: Convergence Theory and Practical Implementation
+#### Adaptive Relaxed ADMM: Convergence Theory and Practical Implementation
 Zheng Xu, MÃ¡rio A. T. Figueiredo, Xiaoming Yuan, Christoph Studer, Tom Goldstein
-Object Recognition & Scene Understanding
-ViP-CNN: Visual Phrase Guided Convolutional Neural Network
+## Object Recognition & Scene Understanding
+#### ViP-CNN: Visual Phrase Guided Convolutional Neural Network
 Yikang Li, Wanli Ouyang, Xiaogang Wang, Xiao'ou Tang
-Instance-Aware Image and Sentence Matching With Selective Multimodal LSTM
+#### Instance-Aware Image and Sentence Matching With Selective Multimodal LSTM
 Yan Huang, Wei Wang, Liang Wang
-Kernel Square-Loss Exemplar Machines for Image Retrieval
+#### Kernel Square-Loss Exemplar Machines for Image Retrieval
 Rafael S. Rezende, Joaquin Zepeda, Jean Ponce, Francis Bach, Patrick Pérez
-Cognitive Mapping and Planning for Visual Navigation
+#### Cognitive Mapping and Planning for Visual Navigation
 Saurabh Gupta, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik
-Combining Bottom-Up, Top-Down, and Smoothness Cues for Weakly Supervised Image Segmentation
+#### Combining Bottom-Up, Top-Down, and Smoothness Cues for Weakly Supervised Image Segmentation
 Anirban Roy, Sinisa Todorovic
-Seeing Into Darkness: Scotopic Visual Recognition
+#### Seeing Into Darkness: Scotopic Visual Recognition
 Bo Chen, Pietro Perona
-Deep Co-Occurrence Feature Learning for Visual Object Recognition
+#### Deep Co-Occurrence Feature Learning for Visual Object Recognition
 Ya-Fang Shih, Yang-Ming Yeh, Yen-Yu Lin, Ming-Fang Weng, Yi-Chang Lu, Yung-Yu Chuang
-An Empirical Evaluation of Visual Question Answering for Novel Objects
+#### An Empirical Evaluation of Visual Question Answering for Novel Objects
 Santhosh K. Ramakrishnan, Ambar Pal, Gaurav Sharma, Anurag Mittal
-InstanceCut: From Edges to Instances With MultiCut
+#### InstanceCut: From Edges to Instances With MultiCut
 Alexander Kirillov, Evgeny Levinkov, Bjoern Andres, Bogdan Savchynskyy, Carsten Rother
-Fine-Grained Image Classification via Combining Vision and Language
+#### Fine-Grained Image Classification via Combining Vision and Language
 Xiangteng He, Yuxin Peng
-Mimicking Very Efficient Network for Object Detection
+#### Mimicking Very Efficient Network for Object Detection
 Quanquan Li, Shengying Jin, Junjie Yan
-Tracking by Natural Language Specification
+#### Tracking by Natural Language Specification
 Zhenyang Li, Ran Tao, Efstratios Gavves, Cees G. M. Snoek, Arnold W.M. Smeulders
-A Dataset and Exploration of Models for Understanding Video Data Through Fill-In-The-Blank Question-Answering
+#### A Dataset and Exploration of Models for Understanding Video Data Through Fill-In-The-Blank Question-Answering
 Tegan Maharaj, Nicolas Ballas, Anna Rohrbach, Aaron Courville, Christopher Pal
-Learning Detection With Diverse Proposals
+#### Learning Detection With Diverse Proposals
 Samaneh Azadi, Jiashi Feng, Trevor Darrell
-Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition
+#### Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition
 Yufei Wang, Zhe Lin, Xiaohui Shen, Scott Cohen, Garrison W. Cottrell
-Theory
-A Low Power, Fully Event-Based Gesture Recognition System
+## Theory
+#### A Low Power, Fully Event-Based Gesture Recognition System
 Arnon Amir, Brian Taba, David Berg, Timothy Melano, Jeffrey McKinstry, Carmelo Di Nolfo, Tapan Nayak, Alexander Andreopoulos, Guillaume Garreau, Marcela Mendoza, Jeff Kusnitz, Michael Debole, Steve Esser, Tobi Delbruck, Myron Flickner, Dharmendra Modha
-Video Analytics
-Learning Deep Context-Aware Features Over Body and Latent Parts for Person Re-Identification
+## Video Analytics
+#### Learning Deep Context-Aware Features Over Body and Latent Parts for Person Re-Identification
 Dangwei Li, Xiaotang Chen, Zhang Zhang, Kaiqi Huang
-Recurrent Modeling of Interaction Context for Collective Activity Recognition
+#### Recurrent Modeling of Interaction Context for Collective Activity Recognition
 Minsi Wang, Bingbing Ni, Xiaokang Yang
-Primary Object Segmentation in Videos Based on Region Augmentation and Reduction
+#### Primary Object Segmentation in Videos Based on Region Augmentation and Reduction
 Yeong Jun Koh, Chang-Su Kim
-ROAM: A Rich Object Appearance Model With Application to Rotoscoping
+#### ROAM: A Rich Object Appearance Model With Application to Rotoscoping
 Ondrej Miksik, Juan-Manuel Pérez-RÃºa, Philip H. S. Torr, Patrick Pérez
-Temporal Residual Networks for Dynamic Scene Recognition
+#### Temporal Residual Networks for Dynamic Scene Recognition
 Christoph Feichtenhofer, Axel Pinz, Richard P. Wildes
-Spatiotemporal Multiplier Networks for Video Action Recognition
+#### Spatiotemporal Multiplier Networks for Video Action Recognition
 Christoph Feichtenhofer, Axel Pinz, Richard P. Wildes
-Learning to Learn From Noisy Web Videos
+#### Learning to Learn From Noisy Web Videos
 Serena Yeung, Vignesh Ramanathan, Olga Russakovsky, Liyue Shen, Greg Mori, Li Fei-Fei
-YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video
+#### YouTube-BoundingBoxes: A Large High-Precision Human-Annotated Data Set for Object Detection in Video
 Esteban Real, Jonathon Shlens, Stefano Mazzocchi, Xin Pan, Vincent Vanhoucke
-Online Video Object Segmentation via Convolutional Trident Network
+#### Online Video Object Segmentation via Convolutional Trident Network
 Won-Dong Jang, Chang-Su Kim
